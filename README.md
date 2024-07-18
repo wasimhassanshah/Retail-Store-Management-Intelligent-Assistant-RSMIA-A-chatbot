@@ -1,7 +1,7 @@
 # Retail-Store-Management-Intelligent-Assistant-RSMIA-A-chatbot
 Retail Store Management Intelligent Assistant (RSMIA): A chatbot for retail inventory and sales insights.
 
-- Purpose:
+** Purpose:
   Empowered store managers to query MySQL
 
 - Description
